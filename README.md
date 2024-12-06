@@ -5,19 +5,6 @@ This repository contains the research code, datasets, and resources for my Maste
 
 ---
 
-## Table of Contents
-- [Abstract](#abstract)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-
----
-
 ## Abstract
 This thesis compares traditional machine learning models and advanced deep learning models, particularly TabNet and TabTransformer, to predict employee attrition. It evaluates data augmentation techniques like SMOTE and interpretability tools such as SHAP to provide actionable insights. The study finds TabNet to outperform other models, demonstrating the potential of specialized tabular deep learning models in HR analytics.
 
